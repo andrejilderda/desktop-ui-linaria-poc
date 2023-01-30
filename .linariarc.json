@@ -1,0 +1,5 @@
+{
+  "displayName": true,
+  "variableNameConfig": "dashes",
+  "classNameSlug": "dui-[title]"
+}
